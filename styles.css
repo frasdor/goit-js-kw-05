@@ -14,10 +14,6 @@ h1 {
 }
 ul {
     list-style-type: none;
-    border: 1px #0056b3 solid;
-    border-radius: 10px; 
-    height: 300px;
-    width: calc(100vw-230px )/1;
     padding: 0;
     margin: 20px;
     display: flex;
